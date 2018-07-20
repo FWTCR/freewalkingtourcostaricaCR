@@ -1,1 +1,2 @@
 # freewalkingtourcostarica
+# FWTCR.github.io
